@@ -58,7 +58,7 @@ sql-python-sales-analysis/
 ## How to Run
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/JDMalkerion/sql-python-sales-analysis.git
 cd sql-python-sales-analysis
 python3 -m venv venv
 source venv/bin/activate
