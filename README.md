@@ -66,8 +66,4 @@ pip install -r requirements.txt
 jupyter notebook notebooks/sales_analysis.ipynb
 ```
 
-## Next Steps
 
-- Add a simple forecasting model (e.g. moving average or basic time-series decomposition) on the monthly revenue trend to move from descriptive to predictive analysis
-- Investigate the Grains/Cereals and Seafood category underperformance with a pricing/discount-level breakdown
-- Explore a self-hosted dashboard (Streamlit) as a follow-up project for interactive exploration of these findings
